@@ -1,0 +1,21 @@
+body {
+    padding: 6em 6em; 
+    text-align: center; 
+    border:grey; 
+    border-width: 4em; 
+    border-style: solid;
+} 
+        
+
+h1{
+     color: red;
+}
+
+.list li{
+    color: purple;
+    list-style-type:none; 
+    padding : 1em 1em;
+    float:left;
+
+
+}
